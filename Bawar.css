@@ -563,7 +563,7 @@ section {
     grid-template-columns: 450px;
     max-width: 500px;
 
-    padding: 20px;
+    padding-left: 12px;
     padding-top: 50px;
   }
 
